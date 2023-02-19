@@ -1,2 +1,2 @@
 # selenium_revision
-This project is created to revise the concepts of selenium using webdriver, grid
+This project CrossBrowserTest is created to launch multiple browsers based on the paramters passed in CrossBrowserSuite.xml
