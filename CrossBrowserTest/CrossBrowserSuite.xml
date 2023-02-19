@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Cross Browser">
+	<test name ="Chrome">
+	<parameter name='browser' value="ChromeHeadless" />
+	<classes>
+		<class name="com.selenium.CrossBrowserTest.googleLaunch" />
+	</classes>
+	</test>
+</suite>
